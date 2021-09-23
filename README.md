@@ -1,12 +1,15 @@
 <div align = center >
   <h1>Social Work Interface</h1>
  <img src="./src/components/image/web-interface.png" width="700px"/>
-  <h3>A simple web site interface for create users and show they skills</h3>
+  <h3>A simple web site interface for create users and show they description</h3>
 </div>
 
 # Feature
 
- ReactJs - A JavaScript library for building user interfaces
+<li>
+⚛️ ReactJs - A JavaScript library for building user interfaces
+</li>
+
 
 # Getting Started with Create React App
 
