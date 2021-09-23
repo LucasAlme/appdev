@@ -1,8 +1,8 @@
 Interface de um Web site para cadastro de usuário e informações do mesmo feito em ReactJs.
 
-<span align="center">
-## <img src="./src/components/image/web-interface.png" width="720px"/>
-</span>
+<div>
+ <img src="./src/components/image/web-interface.png" width="700px" />
+</div>
 
 # Feature
 
